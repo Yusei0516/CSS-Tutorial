@@ -27,6 +27,6 @@
   height: 20px;
 }
 /* img要素に適用するスタイル */
-.img {
+img {
   display: block;
 }
